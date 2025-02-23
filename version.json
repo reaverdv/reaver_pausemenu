@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
-    "changelog": "",
+    "version": "1.0.1",
+    "changelog": "Añadido varios bugfixs, sonido de error, notificaciones, cash o bank desde config.lua",
     "name": "Reaver Dev",
     "discord": "reaver_rp",
     "discord_url": "https://discord.gg/Kx3Pbmx8Ae"
