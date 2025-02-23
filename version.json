@@ -1,6 +1,6 @@
 {
-    "version": "1.0.4",
-    "changelog": "Añadido el comando /clearnotify para eliminar las notificaciones en cola.",
+    "version": "1.0.0",
+    "changelog": "",
     "name": "Reaver Dev",
     "discord": "reaver_rp",
     "discord_url": "https://discord.gg/Kx3Pbmx8Ae"
